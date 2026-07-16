@@ -74,3 +74,6 @@ Computer Science Student
 ## License
 
 This project is open source and available for educational use.
+
+---
+*Last updated: July 2026*
